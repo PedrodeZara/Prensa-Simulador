@@ -75,7 +75,7 @@ const prensa = (() => {
 
 
 prensa.ligar();
-prensa.mover(false,true,150,0,150,120);
+prensa.mover(true,false,150,0,120,0);
 prensa.desligar();
 
 
