@@ -34,7 +34,7 @@ const prensa = (() => {
                     moverPrensa = false;
                     return console.log("\nConcluído\n");
                 } else {
-                    return console.log("37 Valores fora das medidas Máxima");
+                    return console.log("Valores fora das medidas Máxima");
                 }
             }
                 
@@ -52,7 +52,7 @@ const prensa = (() => {
                     moverPrensa = false;
                     return console.log("\nConcluído\n");
                 } else {
-                    return console.log("53 Valores fora das medidas Máxima")
+                    return console.log("Valores fora das medidas Máxima")
                 }
             } else {
                 return console.log("A prensa não está ligada ou comandos sadasd");
