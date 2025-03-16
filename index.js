@@ -1,5 +1,5 @@
 const prensa = (() => {
-    ligado = false
+    let ligado = false
     let moverPrensa = false;
 
     let prensaLigar = () => {
